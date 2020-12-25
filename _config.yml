@@ -1,12 +1,12 @@
 # Site
-title:              Steven J Hardwick
-bio:                "Rust Developer | Rust Boulder/Denver co-organizer | Runner of a Haskell Book Club | Speaker | Hopeful about the future of programming"
-description:        "Steven J Hardwick is a software developer passionate about Haskell & Rust. They want to share the joy they've found in learning those languages with others. Strong and static types help make them more confident that their code will work in the future."
+title:              Steven J Haigh
+bio:                "Haskell & Rust Developer | Rust Boulder/Denver co-organizer | Runner of a Haskell Book Club | Speaker | Hopeful about the future of programming"
+description:        "Steven Haigh is a software developer passionate about Haskell & Rust. They want to share the joy they've found in learning those languages with others. Strong and static types help make them more confident that their code will work in the future."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/background.png'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://optimistictypes.com
 
@@ -44,7 +44,7 @@ twitter:            DebugSteven
 #facebook:           username
 github-url:         DebugSteven
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:           steven-j-hardwick-a80988106
+#linkedin:           steven-j-haigh-a80988106
 #xing:              username
 #instagram:          username
 #lastfm:            username
