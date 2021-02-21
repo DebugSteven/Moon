@@ -142,10 +142,14 @@ Thanks to all the women in my life for filling it with music & love, for
 sharing compassion & vulnerability with me, for helping me truly
 appreciate femininity. I've inevitably hurt people along the way as I've
 figured this out. For times I wasn't sensitive or kind, I'm sorry. I was
-full of a lot of hurt from years of transphobia & transmisandry. I'm
+full of a lot of hurt from years of transphobia ~~& transmisandry~~.[^1] I'm
 not going to let that hold me back anymore. I'm going to make a
 presentation for myself, as a man, & remember to make room for those who
 have to deal with misogyny all the ways I can.
 
 
 ~ Steven
+
+[^1]: Edit 2/21/21: Transmisandry isn't a concept.  Telling trans men
+    they aren't men falls only under transphobia, which is what I was
+    referring to here.
